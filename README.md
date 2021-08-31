@@ -20,4 +20,4 @@ Its structure is built with OOP using classes and objects.
 
 ## Live link
 
-* https://portfolio-js-bankist-app.netlify.app/
+* https://portfolio-js-opp-mapty.netlify.app/
